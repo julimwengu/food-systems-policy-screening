@@ -1,0 +1,207 @@
+Country,ISO3,Region,First year,Last year,Distinct years observed,Outcomes represented (of 7),Total outcome-year observations,Coverage rate across country-year-outcome cells (%),Cost of healthy diet observations,Cannot afford healthy diet observations,Prevalence of undernourishment observations,"Minimum dietary diversity, women observations",Food system emissions observations,Emissions intensity observations,Social protection coverage observations
+Afghanistan,AFG,Southern Asia,2000,2024,25,5,72,41.1,0,0,23,1,23,23,2
+Albania,ALB,Northern America & Europe,2000,2024,25,7,92,52.6,8,8,23,1,23,23,6
+Algeria,DZA,Northern Africa & Western Asia,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+Andorra,AND,Northern America & Europe,2000,2022,23,1,23,14.3,0,0,0,0,23,0,0
+Angola,AGO,Sub-Saharan Africa,2000,2024,25,6,86,49.1,8,8,23,0,23,23,1
+Antigua and Barbuda,ATG,Latin America & Caribbean,2000,2024,25,3,54,30.9,8,0,0,0,23,23,0
+Argentina,ARG,Latin America & Caribbean,2000,2024,25,6,83,47.4,1,1,23,0,23,23,12
+Armenia,ARM,Northern Africa & Western Asia,2000,2024,25,7,98,56.0,8,8,23,1,23,23,12
+Aruba,ABW,Latin America & Caribbean,2017,2024,8,1,8,14.3,8,0,0,0,0,0,0
+Australia,AUS,Oceania,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+Austria,AUT,Northern America & Europe,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+Azerbaijan,AZE,Northern Africa & Western Asia,2000,2024,25,7,87,49.7,8,8,23,1,23,23,1
+Bahamas,BHS,Latin America & Caribbean,2000,2024,25,3,54,30.9,8,0,0,0,23,23,0
+Bahrain,BHR,Northern Africa & Western Asia,2000,2024,25,3,54,30.9,8,0,0,0,23,23,0
+Bangladesh,BGD,Southern Asia,2000,2024,25,7,89,50.9,8,8,23,1,23,23,3
+Barbados,BRB,Latin America & Caribbean,2000,2024,25,3,69,39.4,0,0,23,0,23,23,0
+Belarus,BLR,Northern America & Europe,2000,2024,25,6,96,54.9,8,8,23,0,23,23,11
+Belgium,BEL,Northern America & Europe,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+Belize,BLZ,Latin America & Caribbean,2000,2024,25,6,86,49.1,8,8,23,0,23,23,1
+Benin,BEN,Sub-Saharan Africa,2000,2024,25,7,88,50.3,8,8,23,1,23,23,2
+Bermuda,BMU,Northern America & Europe,2017,2024,8,1,8,14.3,8,0,0,0,0,0,0
+Bhutan,BTN,Southern Asia,2000,2024,25,5,65,37.1,8,8,0,0,23,23,3
+Bolivia (Plurinational State of),BOL,Latin America & Caribbean,2000,2024,25,7,99,56.6,8,8,23,1,23,23,13
+Bosnia and Herzegovina,BIH,Northern America & Europe,2000,2024,25,6,87,49.7,8,8,23,0,23,23,2
+Botswana,BWA,Sub-Saharan Africa,2000,2024,25,7,88,50.3,8,8,23,1,23,23,2
+Brazil,BRA,Latin America & Caribbean,2000,2024,25,7,96,54.9,8,8,23,1,23,23,10
+British Virgin Islands,VGB,Latin America & Caribbean,2017,2024,8,1,8,14.3,8,0,0,0,0,0,0
+Brunei Darussalam,BRN,South-eastern Asia,2000,2024,25,3,54,30.9,8,0,0,0,23,23,0
+Bulgaria,BGR,Northern America & Europe,2000,2024,25,6,86,49.1,8,8,23,0,23,23,1
+Burkina Faso,BFA,Sub-Saharan Africa,2000,2024,25,7,89,50.9,8,8,23,1,23,23,3
+Burundi,BDI,Sub-Saharan Africa,2000,2024,25,4,62,35.4,8,8,0,0,23,23,0
+Cabo Verde,CPV,Sub-Saharan Africa,2000,2024,25,6,86,49.1,8,8,23,0,23,23,1
+Cambodia,KHM,South-eastern Asia,2000,2024,25,6,80,45.7,8,0,23,1,23,23,2
+Cameroon,CMR,Sub-Saharan Africa,2000,2024,25,7,88,50.3,8,8,23,1,23,23,2
+Canada,CAN,Northern America & Europe,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+Cayman Islands,CYM,Latin America & Caribbean,2017,2024,8,1,8,14.3,8,0,0,0,0,0,0
+Central African Republic,CAF,Sub-Saharan Africa,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+Chad,TCD,Sub-Saharan Africa,2000,2024,25,7,87,49.7,8,8,23,1,23,23,1
+Chile,CHL,Latin America & Caribbean,2000,2024,25,7,93,53.1,8,8,23,1,23,23,7
+China,CHN,Eastern Asia,2000,2024,25,7,87,49.7,8,8,23,1,23,23,1
+"China, Hong Kong Special Administrative Region",HKG,Eastern Asia,2002,2024,23,2,31,19.3,8,0,23,0,0,0,0
+Colombia,COL,Latin America & Caribbean,2000,2024,25,7,96,54.9,8,8,23,1,23,23,10
+Comoros,COM,Sub-Saharan Africa,2000,2024,25,7,87,49.7,8,8,23,1,23,23,1
+Congo,COG,Sub-Saharan Africa,2000,2024,25,7,87,49.7,8,8,23,1,23,23,1
+Costa Rica,CRI,Latin America & Caribbean,2000,2024,25,7,98,56.0,8,8,23,1,23,23,12
+Croatia,HRV,Northern America & Europe,2000,2024,25,6,89,50.9,8,8,23,0,23,23,4
+Cuba,CUB,Latin America & Caribbean,2000,2022,23,3,52,32.3,0,0,6,0,23,23,0
+Curaçao,CUW,Latin America & Caribbean,2017,2024,8,1,8,14.3,8,0,0,0,0,0,0
+Cyprus,CYP,Northern Africa & Western Asia,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+Czechia,CZE,Northern America & Europe,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+Côte d’Ivoire,CIV,Sub-Saharan Africa,2000,2024,25,7,90,51.4,8,8,23,1,23,23,4
+Democratic People's Republic of Korea,PRK,Eastern Asia,2000,2022,23,3,64,39.8,0,0,18,0,23,23,0
+Democratic Republic of the Congo,COD,Sub-Saharan Africa,2000,2024,25,7,88,50.3,8,8,23,1,23,23,2
+Denmark,DNK,Northern America & Europe,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+Djibouti,DJI,Sub-Saharan Africa,2000,2024,25,6,87,49.7,8,8,23,0,23,23,2
+Dominica,DMA,Latin America & Caribbean,2000,2024,25,5,78,44.6,8,0,23,0,23,23,1
+Dominican Republic,DOM,Latin America & Caribbean,2000,2024,25,7,99,56.6,8,8,23,1,23,23,13
+Ecuador,ECU,Latin America & Caribbean,2000,2024,25,7,97,55.4,8,8,23,1,23,23,11
+Egypt,EGY,Northern Africa & Western Asia,2000,2024,25,7,88,50.3,8,8,23,1,23,23,2
+El Salvador,SLV,Latin America & Caribbean,2000,2024,25,4,81,46.3,0,0,23,0,23,23,12
+Equatorial Guinea,GNQ,Sub-Saharan Africa,2000,2024,25,3,54,30.9,8,0,0,0,23,23,0
+Eritrea,ERI,Sub-Saharan Africa,2000,2022,23,2,46,28.6,0,0,0,0,23,23,0
+Estonia,EST,Northern America & Europe,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+Eswatini,SWZ,Sub-Saharan Africa,2000,2024,25,6,88,50.3,8,8,23,0,23,23,3
+Ethiopia,ETH,Sub-Saharan Africa,2000,2024,25,7,90,51.4,8,8,23,1,23,23,4
+Fiji,FJI,Oceania,2000,2024,25,6,87,49.7,8,8,23,0,23,23,2
+Finland,FIN,Northern America & Europe,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+France,FRA,Northern America & Europe,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+French Guiana,GUF,Latin America & Caribbean,2000,2022,23,2,30,18.6,0,0,0,0,23,7,0
+French Polynesia,PYF,Oceania,2002,2024,23,1,23,14.3,0,0,23,0,0,0,0
+Gabon,GAB,Sub-Saharan Africa,2000,2024,25,7,88,50.3,8,8,23,1,23,23,2
+Gambia,GMB,Sub-Saharan Africa,2000,2024,25,6,87,49.7,8,8,23,0,23,23,2
+Georgia,GEO,Northern Africa & Western Asia,2000,2024,25,4,80,45.7,0,0,23,0,23,23,11
+Germany,DEU,Northern America & Europe,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+Ghana,GHA,Sub-Saharan Africa,2000,2024,25,7,89,50.9,8,8,23,1,23,23,3
+Greece,GRC,Northern America & Europe,2000,2024,25,6,86,49.1,8,8,23,1,23,23,0
+Grenada,GRD,Latin America & Caribbean,2000,2024,25,4,62,35.4,8,8,0,0,23,23,0
+Guatemala,GTM,Latin America & Caribbean,2000,2024,25,7,89,50.9,8,8,23,1,23,23,3
+Guinea,GIN,Sub-Saharan Africa,2000,2024,25,7,87,49.7,8,8,23,1,23,23,1
+Guinea-Bissau,GNB,Sub-Saharan Africa,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+Guyana,GUY,Latin America & Caribbean,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+Haiti,HTI,Latin America & Caribbean,2000,2024,25,6,86,49.1,8,8,23,0,23,23,1
+Honduras,HND,Latin America & Caribbean,2000,2024,25,7,96,54.9,8,8,23,1,23,23,10
+Hungary,HUN,Northern America & Europe,2000,2024,25,6,86,49.1,8,8,23,0,23,23,1
+Iceland,ISL,Northern America & Europe,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+India,IND,Southern Asia,2000,2024,25,7,89,50.9,8,8,23,1,23,23,3
+Indonesia,IDN,South-eastern Asia,2000,2024,25,7,97,55.4,8,8,23,1,23,23,11
+Iran (Islamic Republic of),IRN,Southern Asia,2000,2024,25,7,87,49.7,8,8,23,1,23,23,1
+Iraq,IRQ,Northern Africa & Western Asia,2000,2024,25,6,87,49.7,8,8,23,0,23,23,2
+Ireland,IRL,Northern America & Europe,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+Israel,ISR,Northern Africa & Western Asia,2000,2024,25,6,86,49.1,8,8,23,1,23,23,0
+Italy,ITA,Northern America & Europe,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+Jamaica,JAM,Latin America & Caribbean,2000,2024,25,6,88,50.3,8,8,23,0,23,23,3
+Japan,JPN,Eastern Asia,2000,2024,25,4,62,35.4,8,8,0,0,23,23,0
+Jordan,JOR,Northern Africa & Western Asia,2000,2024,25,7,88,50.3,8,8,23,1,23,23,2
+Kazakhstan,KAZ,Central Asia,2000,2024,25,7,91,52.0,8,8,23,1,23,23,5
+Kenya,KEN,Sub-Saharan Africa,2000,2024,25,7,88,50.3,8,8,23,1,23,23,2
+Kiribati,KIR,Oceania,2000,2024,25,3,47,26.9,0,0,23,0,23,0,1
+Kuwait,KWT,Northern Africa & Western Asia,2000,2024,25,4,77,44.0,8,0,23,0,23,23,0
+Kyrgyzstan,KGZ,Central Asia,2000,2024,25,7,92,52.6,8,8,23,1,23,23,6
+Lao People's Democratic Republic,LAO,South-eastern Asia,2000,2024,25,6,65,37.1,8,8,0,1,23,23,2
+Latvia,LVA,Northern America & Europe,2000,2024,25,6,87,49.7,8,8,23,0,23,23,2
+Lebanon,LBN,Northern Africa & Western Asia,2000,2024,25,7,87,49.7,8,8,23,1,23,23,1
+Lesotho,LSO,Sub-Saharan Africa,2000,2024,25,5,64,36.6,8,8,0,0,23,23,2
+Liberia,LBR,Sub-Saharan Africa,2000,2024,25,7,89,50.9,8,8,23,1,23,23,3
+Libya,LBY,Northern Africa & Western Asia,2000,2024,25,3,69,39.4,0,0,23,0,23,23,0
+Liechtenstein,LIE,Northern America & Europe,2000,2022,23,1,23,14.3,0,0,0,0,23,0,0
+Lithuania,LTU,Northern America & Europe,2000,2024,25,6,86,49.1,8,8,23,0,23,23,1
+Luxembourg,LUX,Northern America & Europe,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+Madagascar,MDG,Sub-Saharan Africa,2000,2024,25,7,87,49.7,8,8,23,1,23,23,1
+Malawi,MWI,Sub-Saharan Africa,2000,2024,25,7,91,52.0,8,8,23,1,23,23,5
+Malaysia,MYS,South-eastern Asia,2000,2024,25,7,90,51.4,8,8,23,1,23,23,4
+Maldives,MDV,Southern Asia,2000,2024,25,5,66,37.7,8,8,0,0,23,23,4
+Mali,MLI,Sub-Saharan Africa,2000,2024,25,7,88,50.3,8,8,23,1,23,23,2
+Malta,MLT,Northern America & Europe,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+Marshall Islands,MHL,Oceania,2000,2022,23,2,24,14.9,0,0,0,0,23,0,1
+Mauritania,MRT,Sub-Saharan Africa,2000,2024,25,7,88,50.3,8,8,23,1,23,23,2
+Mauritius,MUS,Sub-Saharan Africa,2000,2024,25,6,88,50.3,8,8,23,0,23,23,3
+Mexico,MEX,Latin America & Caribbean,2000,2024,25,7,93,53.1,8,8,23,1,23,23,7
+Micronesia (Federated States of),FSM,Oceania,2000,2022,23,3,47,29.2,0,0,0,0,23,23,1
+Monaco,MCO,Northern America & Europe,2000,2022,23,1,23,14.3,0,0,0,0,23,0,0
+Mongolia,MNG,Eastern Asia,2000,2024,25,7,94,53.7,8,8,23,1,23,23,8
+Montenegro,MNE,Northern America & Europe,2002,2024,23,6,77,47.8,8,8,23,0,17,17,4
+Morocco,MAR,Northern Africa & Western Asia,2000,2024,25,7,87,49.7,8,8,23,1,23,23,1
+Mozambique,MOZ,Sub-Saharan Africa,2000,2024,25,7,88,50.3,8,8,23,1,23,23,2
+Myanmar,MMR,South-eastern Asia,2000,2024,25,7,88,50.3,8,8,23,1,23,23,2
+Namibia,NAM,Sub-Saharan Africa,2000,2024,25,7,89,50.9,8,8,23,1,23,23,3
+Nauru,NRU,Oceania,2000,2022,23,1,23,14.3,0,0,0,0,23,0,0
+Nepal,NPL,Southern Asia,2000,2024,25,7,87,49.7,8,8,23,1,23,23,1
+Netherlands (Kingdom of the),NLD,Northern America & Europe,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+New Caledonia,NCL,Oceania,2002,2024,23,1,23,14.3,0,0,23,0,0,0,0
+New Zealand,NZL,Oceania,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+Nicaragua,NIC,Latin America & Caribbean,2000,2023,24,7,86,51.2,7,7,22,1,23,23,3
+Niger,NER,Sub-Saharan Africa,2000,2024,25,7,89,50.9,8,8,23,1,23,23,3
+Nigeria,NGA,Sub-Saharan Africa,2000,2024,25,7,90,51.4,8,8,23,1,23,23,4
+North Macedonia,MKD,Northern America & Europe,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+Norway,NOR,Northern America & Europe,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+Oman,OMN,Northern Africa & Western Asia,2000,2024,25,4,77,44.0,8,0,23,0,23,23,0
+Pakistan,PAK,Southern Asia,2000,2024,25,7,91,52.0,8,8,23,1,23,23,5
+Palau,PLW,Oceania,2000,2022,23,2,24,14.9,0,0,0,0,23,0,1
+Palestine,PSE,Northern Africa & Western Asia,2017,2024,8,2,16,28.6,8,8,0,0,0,0,0
+Panama,PAN,Latin America & Caribbean,2000,2024,25,6,97,55.4,8,8,23,0,23,23,12
+Papua New Guinea,PNG,Oceania,2000,2024,25,4,70,40.0,0,0,23,0,23,23,1
+Paraguay,PRY,Latin America & Caribbean,2000,2024,25,7,100,57.1,8,8,23,1,23,23,14
+Peru,PER,Latin America & Caribbean,2000,2024,25,7,100,57.1,8,8,23,1,23,23,14
+Philippines,PHL,South-eastern Asia,2000,2024,25,7,90,51.4,8,8,23,1,23,23,4
+Poland,POL,Northern America & Europe,2000,2024,25,6,96,54.9,8,8,23,0,23,23,11
+Portugal,PRT,Northern America & Europe,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+Qatar,QAT,Northern Africa & Western Asia,2000,2024,25,4,62,35.4,8,8,0,0,23,23,0
+Republic of Korea,KOR,Eastern Asia,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+Republic of Moldova,MDA,Northern America & Europe,2000,2024,25,7,90,51.4,8,8,23,1,23,23,4
+Romania,ROU,Northern America & Europe,2000,2024,25,6,89,50.9,8,8,23,0,23,23,4
+Russian Federation,RUS,Northern America & Europe,2000,2024,25,7,91,52.0,8,8,23,1,23,23,5
+Rwanda,RWA,Sub-Saharan Africa,2000,2024,25,6,88,50.3,8,8,23,0,23,23,3
+Saint Kitts and Nevis,KNA,Latin America & Caribbean,2000,2024,25,3,54,30.9,8,0,0,0,23,23,0
+Saint Lucia,LCA,Latin America & Caribbean,2000,2024,25,4,62,35.4,8,8,0,0,23,23,0
+Saint Vincent and the Grenadines,VCT,Latin America & Caribbean,2000,2024,25,4,77,44.0,8,0,23,0,23,23,0
+Samoa,WSM,Oceania,2000,2024,25,4,70,40.0,0,0,23,0,23,23,1
+San Marino,SMR,Northern America & Europe,2000,2022,23,1,23,14.3,0,0,0,0,23,0,0
+Sao Tome and Principe,STP,Sub-Saharan Africa,2000,2024,25,6,86,49.1,8,8,23,0,23,23,1
+Saudi Arabia,SAU,Northern Africa & Western Asia,2000,2024,25,4,77,44.0,8,0,23,0,23,23,0
+Senegal,SEN,Sub-Saharan Africa,2000,2024,25,7,88,50.3,8,8,23,1,23,23,2
+Serbia,SRB,Northern America & Europe,2002,2024,23,6,78,48.4,8,8,23,0,17,17,5
+Seychelles,SYC,Sub-Saharan Africa,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+Sierra Leone,SLE,Sub-Saharan Africa,2000,2024,25,7,88,50.3,8,8,23,1,23,23,2
+Singapore,SGP,South-eastern Asia,2000,2024,25,3,54,30.9,8,0,0,0,23,23,0
+Sint Maarten (Dutch part),SXM,Latin America & Caribbean,2017,2024,8,1,8,14.3,8,0,0,0,0,0,0
+Slovakia,SVK,Northern America & Europe,2000,2024,25,6,86,49.1,8,8,23,0,23,23,1
+Slovenia,SVN,Northern America & Europe,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+Solomon Islands,SLB,Oceania,2000,2024,25,4,70,40.0,0,0,23,0,23,23,1
+Somalia,SOM,Sub-Saharan Africa,2000,2024,25,5,78,44.6,8,0,23,1,23,23,0
+South Africa,ZAF,Sub-Saharan Africa,2000,2024,25,7,93,53.1,8,8,23,1,23,23,7
+South Sudan,SSD,Sub-Saharan Africa,2009,2024,14,6,43,38.4,8,8,4,0,11,11,1
+Spain,ESP,Northern America & Europe,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+Sri Lanka,LKA,Southern Asia,2000,2024,25,7,91,52.0,8,8,23,1,23,23,5
+Sudan,SDN,Northern Africa & Western Asia,2009,2024,14,6,48,42.9,8,8,9,0,11,11,1
+Suriname,SUR,Latin America & Caribbean,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+Sweden,SWE,Northern America & Europe,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+Switzerland,CHE,Northern America & Europe,2000,2024,25,6,86,49.1,8,8,23,1,23,23,0
+Syrian Arab Republic,SYR,Northern Africa & Western Asia,2000,2024,25,6,86,49.1,8,8,23,0,23,23,1
+"Taiwan, Province of China",TWN,Eastern Asia,2002,2024,23,3,33,20.5,2,8,23,0,0,0,0
+Tajikistan,TJK,Central Asia,2000,2024,25,7,87,49.7,8,8,23,1,23,23,1
+Thailand,THA,South-eastern Asia,2000,2024,25,7,93,53.1,8,8,23,1,23,23,7
+Timor-Leste,TLS,South-eastern Asia,2000,2024,25,4,71,40.6,0,0,23,0,23,23,2
+Togo,TGO,Sub-Saharan Africa,2000,2024,25,7,88,50.3,8,8,23,1,23,23,2
+Tonga,TON,Oceania,2000,2022,23,2,46,28.6,0,0,0,0,23,23,0
+Trinidad and Tobago,TTO,Latin America & Caribbean,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+Tunisia,TUN,Northern Africa & Western Asia,2000,2024,25,7,87,49.7,8,8,23,1,23,23,1
+Turkmenistan,TKM,Central Asia,2000,2024,25,3,69,39.4,0,0,23,0,23,23,0
+Turks and Caicos Islands,TCA,Latin America & Caribbean,2017,2024,8,1,8,14.3,8,0,0,0,0,0,0
+Tuvalu,TUV,Oceania,2000,2022,23,1,23,14.3,0,0,0,0,23,0,0
+Türkiye,TUR,Northern Africa & Western Asia,2000,2024,25,7,102,58.3,8,8,23,1,23,23,16
+Uganda,UGA,Sub-Saharan Africa,2000,2024,25,7,90,51.4,8,8,23,1,23,23,4
+Ukraine,UKR,Northern America & Europe,2000,2024,25,5,78,44.6,0,0,23,1,23,23,8
+United Arab Emirates,ARE,Northern Africa & Western Asia,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+United Kingdom of Great Britain and Northern Ireland,GBR,Northern America & Europe,2000,2024,25,5,85,48.6,8,8,23,0,23,23,0
+United Republic of Tanzania,TZA,Sub-Saharan Africa,2000,2024,25,7,90,51.4,8,8,23,1,23,23,4
+United States of America,USA,Northern America & Europe,2000,2024,25,6,86,49.1,8,8,23,1,23,23,0
+Uruguay,URY,Latin America & Caribbean,2000,2024,25,6,96,54.9,8,8,23,0,23,23,11
+Uzbekistan,UZB,Central Asia,2000,2024,25,7,87,49.7,8,8,23,1,23,23,1
+Vanuatu,VUT,Oceania,2000,2024,25,4,70,40.0,0,0,23,0,23,23,1
+Venezuela (Bolivarian Republic of),VEN,Latin America & Caribbean,2000,2024,25,5,71,40.6,0,0,23,1,23,23,1
+Viet Nam,VNM,South-eastern Asia,2000,2024,25,7,90,51.4,8,8,23,1,23,23,4
+Yemen,YEM,Northern Africa & Western Asia,2000,2022,23,4,49,30.4,0,0,0,1,23,23,2
+Zambia,ZMB,Sub-Saharan Africa,2000,2024,25,7,88,50.3,8,8,23,1,23,23,2
+Zimbabwe,ZWE,Sub-Saharan Africa,2000,2024,25,7,76,43.4,1,1,23,1,23,23,4

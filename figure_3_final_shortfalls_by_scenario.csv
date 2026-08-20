@@ -1,0 +1,29 @@
+Scenario,Outcome,Final remaining shortfall
+Baseline,Cost of healthy diet,0.20441744584401156
+Baseline,Cannot afford healthy diet,0.0
+Baseline,Prevalence of undernourishment,0.01331999225097591
+Baseline,"Minimum dietary diversity, women",0.08713168817521066
+Baseline,Food system emissions,0.024496714295561772
+Baseline,Emissions intensity,0.0
+Baseline,Social protection coverage,0.0
+Affordability priority,Cost of healthy diet,0.11214608494698619
+Affordability priority,Cannot afford healthy diet,0.0
+Affordability priority,Prevalence of undernourishment,0.009741026650197826
+Affordability priority,"Minimum dietary diversity, women",0.07276304512871179
+Affordability priority,Food system emissions,0.03208986267604366
+Affordability priority,Emissions intensity,0.0
+Affordability priority,Social protection coverage,0.0
+Nutrition priority,Cost of healthy diet,0.25876029731895
+Nutrition priority,Cannot afford healthy diet,0.0
+Nutrition priority,Prevalence of undernourishment,0.0
+Nutrition priority,"Minimum dietary diversity, women",0.07483647159068996
+Nutrition priority,Food system emissions,0.03208739936969679
+Nutrition priority,Emissions intensity,0.0
+Nutrition priority,Social protection coverage,0.0
+Environment priority,Cost of healthy diet,0.2882051983535454
+Environment priority,Cannot afford healthy diet,0.0
+Environment priority,Prevalence of undernourishment,0.03254330055862975
+Environment priority,"Minimum dietary diversity, women",0.11315475050807211
+Environment priority,Food system emissions,0.003974632709606352
+Environment priority,Emissions intensity,0.0
+Environment priority,Social protection coverage,0.0

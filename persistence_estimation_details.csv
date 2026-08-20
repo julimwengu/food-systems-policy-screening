@@ -1,0 +1,8 @@
+Outcome,Series used,Within-country AR(1) estimate,Conventional standard error,Lagged observations,Countries contributing lagged observations
+Cost of healthy diet,Cost of a healthy diet,1.0710097417906626,0.011392758007169948,1204,173
+Cannot afford healthy diet,Percent of the population who cannot afford a healthy diet,0.5636147368724531,0.02321428497629172,1056,151
+Prevalence of undernourishment,Prevalence of undernourishment (SDG 2.1.1),0.9132488750663096,0.003944583436337954,3662,169
+"Minimum dietary diversity, women",MDD-W: Minimum Dietary Diversity for Women (SDG 2.2.4),,,0,0
+Food system emissions,Agri-food systems greenhouse gas emissions,0.7399132550959929,0.010169222069306516,4232,194
+Emissions intensity,Composite of four standardized GHG-intensity series,0.17891933198611729,0.015585438036878441,4018,185
+Social protection coverage,Social protection coverage,0.24525723708277947,0.047518796945346095,377,89

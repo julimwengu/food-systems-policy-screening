@@ -1,0 +1,56 @@
+{
+  "seed": 26030713,
+  "horizon": 10,
+  "discount_factor": 0.95,
+  "interaction_scale": 0.6,
+  "interaction_matrix_convention": "W rows transmit and columns receive; with column-vector states the transition operator is A = D + lambda * W.T.",
+  "spectral_radius_open_loop": 0.95,
+  "initial_signed_gap_vector": {
+    "Cost of healthy diet": -2.2,
+    "Cannot afford healthy diet": -2.0,
+    "Prevalence of undernourishment": -1.6,
+    "Minimum dietary diversity, women": -1.1,
+    "Food system emissions": -2.4,
+    "Emissions intensity": -1.2,
+    "Social protection coverage": -0.9
+  },
+  "baseline_metrics": {
+    "Initial top policy": "Social protection policy",
+    "Cumulative top policy": "Infrastructure investment",
+    "Affordability-oriented cumulative effort share": 0.8166250729509177,
+    "All seven final shortfalls below initial": true,
+    "Final mean remaining shortfall": 0.04705200984608758,
+    "Final affordability mean shortfall": 0.10220785215191597,
+    "Final nutrition mean shortfall": 0.05022577800823558,
+    "Final environmental mean shortfall": 0.01224840430115498,
+    "Environmental policy cumulative effort": 3.7184068628030684,
+    "Objective value": 96.04764256191318,
+    "Solver converged": true
+  },
+  "uncertainty_design": {
+    "group_draws": 100,
+    "global_draws": 1000,
+    "policy_impact_nonzero_multiplier": "triangular(0.75, 1.00, 1.25)",
+    "interaction_nonzero_multiplier": "triangular(0.50, 1.00, 1.50)",
+    "interaction_scale": "uniform(0.40, 0.80)",
+    "planner_weight_multiplier": "log-uniform(0.50, 1.50)",
+    "policy_cost_multiplier": "log-uniform(0.50, 1.50)",
+    "initial_gap_multiplier": "uniform(0.70, 1.30)"
+  },
+  "software": {
+    "python": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
+    "platform": "Linux-6.18.35-x86_64-with-glibc2.41",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0",
+    "matplotlib": "3.10.8",
+    "openpyxl": "3.1.5"
+  },
+  "notes": [
+    "Negative signed states denote target shortfalls; reported remaining shortfall is max(-x, 0).",
+    "The objective does not penalize meeting or exceeding a target, addressing the symmetric-overshoot problem of an unconstrained LQR.",
+    "MDD-W has no usable within-country lagged observations in the supplied export; its persistence is a documented fallback calibration.",
+    "The emissions-intensity state is a composite of four within-indicator standardized series.",
+    "Sensitivity ranges are structured uncertainty ranges, not sampling confidence intervals for calibrated assumptions."
+  ]
+}

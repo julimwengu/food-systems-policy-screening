@@ -1,0 +1,8 @@
+Outcome,Source series,Domain,Interpretation after sign correction and standardization
+Cost of healthy diet,Cost of a healthy diet,Affordability,Higher normalized values indicate lower cost.
+Cannot afford healthy diet,Percent of the population who cannot afford a healthy diet,Food access,Higher normalized values indicate a smaller unaffordable share.
+Prevalence of undernourishment,Prevalence of undernourishment (SDG 2.1.1),Food security,Higher normalized values indicate less undernourishment.
+"Minimum dietary diversity, women",MDD-W: Minimum Dietary Diversity for Women (SDG 2.2.4),Nutrition,Higher normalized values indicate greater dietary diversity.
+Food system emissions,Agri-food systems greenhouse gas emissions,Environmental sustainability,Higher normalized values indicate lower emissions.
+Emissions intensity,Composite of four GHG-intensity indicators,Environmental efficiency,Higher normalized values indicate lower emissions intensity.
+Social protection coverage,Social protection coverage,Resilience and equity,Higher normalized values indicate broader coverage.

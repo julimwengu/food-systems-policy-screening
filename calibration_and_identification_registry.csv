@@ -1,0 +1,14 @@
+Parameter block,Element,Baseline value,Identification status,Basis,Sensitivity range or rule
+Persistence,Cost of healthy diet,0.95,Estimated then capped,Within-country AR(1) raw estimate 1.071; capped at 0.95,Triangular 0.88-0.98
+Persistence,Cannot afford healthy diet,0.5636147368724531,Estimated,"Within-country AR(1), SE 0.023","Truncated normal; SD=max(2×SE,0.03)"
+Persistence,Prevalence of undernourishment,0.9132488750663096,Estimated,"Within-country AR(1), SE 0.004","Truncated normal; SD=max(2×SE,0.03)"
+Persistence,"Minimum dietary diversity, women",0.75,Calibrated fallback,No usable lagged observations; baseline set to 0.75,Uniform 0.60-0.90
+Persistence,Food system emissions,0.7399132550959929,Estimated,"Within-country AR(1), SE 0.010","Truncated normal; SD=max(2×SE,0.03)"
+Persistence,Emissions intensity,0.17891933198611729,Estimated,"Within-country AR(1), SE 0.016","Truncated normal; SD=max(2×SE,0.03)"
+Persistence,Social protection coverage,0.24525723708277947,Estimated,"Within-country AR(1), SE 0.048","Truncated normal; SD=max(2×SE,0.03)"
+Interaction matrix,Non-zero directed links,See Table S2,Calibrated from qualitative network topology,FSCI directed-link structure; row-normalized source matrix. W rows transmit and columns receive; column-vector dynamics use W.T.,Each non-zero link multiplied by triangular 0.50-1.50
+Interaction scale,lambda,0.6,Calibrated,Chosen within stable range to preserve moderate spillovers,Uniform 0.40-0.80
+Policy-impact matrix,Non-zero direct effects,See Table S4,Calibrated assumption,Direction and relative magnitude aligned with policy-outcome mapping; not causal estimates,Each non-zero effect multiplied by triangular 0.75-1.25
+Planner weights,Diagonal entries,See Table S5,Normative assumption,Illustrative baseline priorities,Independent log-uniform multipliers 0.50-1.50
+Policy costs,Diagonal entries,See Table S6,Calibrated assumption,Relative implementation-cost index in normalized units,Independent log-uniform multipliers 0.50-1.50
+Initial conditions,Seven signed target gaps,See model_diagnostics.json,Scenario assumption,Illustrative below-target starting configuration,Independent uniform multipliers 0.70-1.30; structural scenarios at 0.70 and 1.30
